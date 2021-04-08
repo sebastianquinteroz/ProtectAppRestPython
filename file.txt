@@ -1,0 +1,56 @@
+
+Online>vr
+
+
+Base release: 2.3c
+Revision:     1346-0914
+Build Number: 0004
+
+PCI HSM Compliance:
+Some security settings are not PCI HSM compliant
+
+HSM Core API Version:    7.2.9
+
+Serial Number:  B4665303309R
+Unit info:      Licenced
+
+Host Configuration: Async,Ethernet
+Licence Issue No:   1
+Performance:        50 TPS
+Base Software:      Version 2
+Ship Counter:       1
+Crypto:             3DES
+LMKs Enabled:       1 Variant, 1 Keyblock LMK
+
+Press "Enter" to view additional information...
+
+HSM9-LIC001 Base Software
+HSM9-LIC024 Mag Stripe Issuers
+HSM9-LIC025 Mag Stripe Trans Processing
+HSM9-LIC026 EMV Trans Processing
+HSM9-LIC027 PIN/Key Mailer
+HSM9-LIC028 Visa Cash Processing
+HSM9-LIC029 Legacy Functions
+HSM9-LIC030 Miscellaneous HSM8000 Base Commands License
+
+Bootstrap Version:         1.10.2
+Bootmanager Version:       1.16.12
+LBC Version:               1.7
+Microcontroller Version:   1.33
+
+AGS Cryptographic Library:          1.10.5401
+FIPS Validated DRBG/RNG Algorithm:  TSPP-DRBG v1.1
+FIPS Validated SHA Algorithm:       TSPP-SHA v1.0
+FIPS Validated HMAC Algorithm:      TSPP-HMAC v1.0
+FIPS Validated TDES Algorithm:      TSPP-TDES v1.0
+FIPS Validated RSA Algorithm:       TSPP-RSA v1.0
+FIPS Validated AES Algorithm:       TSPP-AES v1.0
+FIPS Validated CMAC Algorithm:      TSPP-CMAC v1.0
+
+
+Online>
+
+
+Online>
+Terminated
+
